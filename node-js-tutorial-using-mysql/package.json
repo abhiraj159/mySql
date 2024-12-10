@@ -1,0 +1,26 @@
+{
+  "name": "js-tutorial-using-mysql",
+  "version": "1.0.0",
+  "description": "Node practice with mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "abhi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhiraj159/mySql.git"
+  },
+  "keywords": [
+    "abhi"
+  ],
+  "author": "Abhinav Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhiraj159/mySql/issues"
+  },
+  "homepage": "https://github.com/abhiraj159/mySql#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.7"
+  }
+}
